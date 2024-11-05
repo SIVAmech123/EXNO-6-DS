@@ -1,4 +1,6 @@
 # EXNO-6-DS-DATA VISUALIZATION USING SEABORN LIBRARY
+# NAME:N.NAVYA SREE
+# REG.NO:212223040138
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 
